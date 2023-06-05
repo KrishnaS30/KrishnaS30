@@ -16,7 +16,7 @@
 
 - --> 
 ##  
-- 📫 Reach me at : **krishnasnair27@gmail.com**
+- 📫 Reach me at : **krishnasnair27@gmail.com** or send a message via Linkedin
 - 👨‍💻 Explore all my projects at : **https://github.com/KrishnaS30**
 - 🔗 Visit my portfolio : **www.krishnasnair.com**
 
@@ -25,11 +25,12 @@
 - 💬 Ask me about **Data Science and related technologies**
 
 -->
-## 🔗 Links :
+## 🔗 Important Links  :
 <p align="left">
-<a href="https://linkedin.com/in/krishna-s-nair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:krishna-linkedin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishnasnair27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishna-hackerrank" height="30" width="40" /></a> 
-<a href="https://github.com/KrishnaS30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="krishna-github" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-s-nair/" target="blank"><img align="center" src="https://github.com/KrishnaS30/images/blob/main/linkedin.png" alt="https:krishna-linkedin" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/krishnasnair27/" target="blank"><img align="center" src="https://github.com/KrishnaS30/images/blob/main/hackerrank.png" alt="krishna-hackerrank" height="40" width="40" /></a> 
+<a href="https://github.com/KrishnaS30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="krishna-github" height="40" width="40" /></a>
+<a href="https://krishnasnair.com/" target="blank"><img align="center" src="https://github.com/KrishnaS30/images/blob/main/logo.png" alt="krishna-github" height="40" width="40" /></a>
 
 <!--
 codesandbox
@@ -49,13 +50,18 @@ Leetcode
 
 
 ## 📈 GitHub Stats
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=KrishnaS30)](https://github.com/KrishnaS30)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaS30&layout=compact)](https://github.com/KrishnaS30)
 
+[![Krishna’s github stats](https://github-readme-stats.vercel.app/api?username=KrishnaS30)](https://github.com/KrishnaS30)
+-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnas30&show_icons=true&locale=en&layout=compact" alt="krishnas30" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnas30&show_icons=true&locale=en" alt="krishnas30" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnas30&" alt="krishnas30" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnas30&label=Profile%20views&color=0e75b6&style=flat" alt="krishnas30" /> </p>
 <!---
 ## 📝 Recent Blog Posts
  --> 
