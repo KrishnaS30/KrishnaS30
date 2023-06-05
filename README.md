@@ -19,15 +19,20 @@
 - 📫 Reach me at : **krishnasnair27@gmail.com**
 - 👨‍💻 Explore all my projects at : **https://github.com/KrishnaS30**
 - 🔗 Visit my portfolio : **www.krishnasnair.com**
+
 <!--- 
 - 📝 Check out my Tech blogs :
- --> 
 - 💬 Ask me about Data Science and related technologies
 
+-->
+## 🔗 Links :
+<p align="left">
+<a href="https://linkedin.com/in/krishna-s-nair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-s-nair/" height="30" width="40" /></a>
+</p>
 
-## 🤝 Connect with me:
+## 🛠 Languages and Tools:
 
-## Tech:
+
 
 ## 📈 GitHub Stats
 
