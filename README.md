@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with ...
 
 - --> 
-##  :
+##  
 - 📫 Reach me at : **krishnasnair27@gmail.com**
 - 👨‍💻 Explore all my projects at : **https://github.com/KrishnaS30**
 - 🔗 Visit my portfolio : **www.krishnasnair.com**
