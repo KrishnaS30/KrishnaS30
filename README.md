@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring Data Scientist and a data science graduate. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
 
-## About Me
+## 🚀 About Me
 - 🎓 Graduated with a distinction in Data Science from University of East Anglia.
 - 🏢 Nearly 5 years of professional experience in the IT industry, working with Tata Consultancy Services.
 - 🌱 I'm constantly learning and exploring different tools and techniques in data science. 
