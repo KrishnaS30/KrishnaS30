@@ -1,3 +1,8 @@
+<picture>
+ <img align="center" src="https://github.com/KrishnaS30/images/blob/main/github-banner.png"  >
+</picture>
+
+
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring Data Scientist and a data science graduate. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
