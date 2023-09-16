@@ -1,5 +1,5 @@
 <picture>
- <img align="center" src="https://github.com/KrishnaS30/images/blob/main/Krishna-github_banner.png"  >
+ <img align="center" src="https://github.com/KrishnaS30/images/blob/main/krish_github.png"  >
 </picture>
 
 
