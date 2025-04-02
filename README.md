@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 Graduated with a distinction in Data Science from University of East Anglia.
 - 🏢 Nearly 8 years of professional experience in the IT industry.
-- 🌟 Experienced in various Quality Assurance roles including QA Lead and have worked extensively as Data Analyst, specializing in SQL & Power BI.
+- 🌟 Experienced in various Quality Assurance roles including QA Lead & worked extensively as Data Analyst, specializing in SQL & Power BI.
 - 🌱 I'm constantly learning and exploring different tools and techniques in data science. 
 - 💼 Currently working as Senior Statistician and seeking opportunities to apply my skills and knowledge in data science roles.
 
