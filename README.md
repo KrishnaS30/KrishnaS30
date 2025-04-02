@@ -5,13 +5,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a Data Analyst and an aspiring Data Scientist. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a Senior Statistician and an aspiring Data Scientist. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
 
 ## 🚀 About Me
 - 🎓 Graduated with a distinction in Data Science from University of East Anglia.
-- 🏢 Nearly 5 years of professional experience in the IT industry, working with Tata Consultancy Services.
+- 🏢 Nearly 8 years of professional experience in the IT industry, I have held roles in software Quality Assurance, including Test Lead, and have worked extensively as a Data Analyst, specializing in Power BI.
 - 🌱 I'm constantly learning and exploring different tools and techniques in data science. 
-- 💼 Currently working as a Data Analyst and seeking opportunities to apply my skills and knowledge in data science role.
+- 💼 Currently working as Senior Statistician and seeking opportunities to apply my skills and knowledge in data science roles.
 
 <!---
 
