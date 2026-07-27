@@ -5,10 +5,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a Senior Statistician specialising in data analytics, statistical modelling and machine learning. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
 <h3 align="center">
+Welcome to my GitHub profile! I'm a Senior Statistician specialising in data analytics, statistical modelling and machine learning. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
+<h4 align="center">
 Senior Statistician | Data Analytics | Machine Learning | AI
-</h3>
+</h4>
 ## 🚀 About Me
 I am a Senior Statistician with experience delivering data-driven insights using large-scale administrative and survey datasets. I specialise in statistical analysis, data analytics, and transforming complex data into actionable insights.
 
