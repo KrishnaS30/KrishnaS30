@@ -10,9 +10,9 @@
 Senior Statistician | Data Science | Analytics | Machine Learning | Generative AI
 </h3>
 
-<p align="center">
+<h4 align="center">
 Senior Statistician in the UK Civil Service with experience applying statistics, analytics, and machine learning to extract insights from large-scale datasets and support data-driven decision-making.
-</p>
+</h4>
 
 ## 🚀 About Me
 I am a Senior Statistician specialising in data analytics, statistical modelling, and machine learning. I have experience delivering evidence-based insights using large-scale administrative and survey datasets, transforming complex data into actionable insights.
