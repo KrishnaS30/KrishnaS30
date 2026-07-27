@@ -19,9 +19,40 @@ I have experience delivering evidence-based insights using large-scale administr
 - 🎓 MSc Data Science (Distinction) from the University of East Anglia.
 - 🏢 Nearly 8 years of experience across analytics, technology, and software delivery roles.
 - 📊 Experienced in Python, SQL, SAS, Power BI, and statistical modelling.
-- 🤖 Exploring machine learning, generative AI, LLM applications, and cloud analytics.
+- 🤖 Developing skills in machine learning, generative AI, LLM applications, RAG and cloud analytics.
 <!---
 
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+- Python
+- SQL
+- SAS
+- Pandas
+- NumPy
+
+**Analytics & Visualisation**
+- Power BI
+- Matplotlib
+- Data Storytelling
+
+**Statistics & Machine Learning**
+- Statistical Modelling
+- Regression
+- Classification
+- Clustering
+- Time Series Forecasting
+
+**Cloud & Tools**
+- Microsoft Azure
+- Git
+- GitHub
+
+**Currently Learning**
+- Generative AI
+- LLMs
+- RAG
+- Databricks
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
