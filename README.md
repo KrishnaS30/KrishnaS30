@@ -20,7 +20,7 @@ I have experience delivering evidence-based insights using large-scale administr
 - 🏢 Nearly 8 years of experience across analytics, technology, and software delivery roles.
 - 📊 Experienced in Python, SQL, SAS, Power BI, and statistical modelling.
 - 🤖 Developing skills in machine learning, generative AI, LLM applications, RAG and cloud analytics.
-<!---
+
 
 ## 🛠️ Technical Skills
 
@@ -53,11 +53,7 @@ I have experience delivering evidence-based insights using large-scale administr
 - LLMs
 - RAG
 - Databricks
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
 
-- --> 
 ##  
 - 📫 Reach me at : **krishnasnair27@gmail.com** or send a message via Linkedin
 - 👨‍💻 Explore all my projects at : **https://github.com/KrishnaS30**
