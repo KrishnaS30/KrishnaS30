@@ -5,12 +5,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">
-Welcome to my GitHub profile!</h3>
 
-<h4 align="center">
+<h3 align="center">
 Senior Statistician | Data Science | Analytics | Machine Learning | Generative AI
-</h4>
+</h3>
+
+<p align="center">
+Senior Statistician in the UK Civil Service with experience applying statistics, analytics, and machine learning to extract insights from large-scale datasets and support data-driven decision-making.
+</p>
 
 ## 🚀 About Me
  I am a Senior Statistician in the UK Civil Service specialising in data analytics, statistical modelling and machine learning. I'm passionate about leveraging statistics, analytics, and AI to extract meaningful insights, solve real-world problems, and enable data-driven decision-making.
