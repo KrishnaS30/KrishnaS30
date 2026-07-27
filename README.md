@@ -15,8 +15,9 @@ Senior Statistician in the UK Civil Service with experience applying statistics,
 </p>
 
 ## 🚀 About Me
- I am a Senior Statistician in the UK Civil Service specialising in data analytics, statistical modelling and machine learning. I'm passionate about leveraging statistics, analytics, and AI to extract meaningful insights, solve real-world problems, and enable data-driven decision-making.
-I have experience delivering evidence-based insights using large-scale administrative and survey datasets, transforming complex data into actionable insights to support decision-making.
+I am a Senior Statistician specialising in data analytics, statistical modelling, and machine learning. I have experience delivering evidence-based insights using large-scale administrative and survey datasets, transforming complex data into actionable insights.
+
+I'm passionate about leveraging statistics, analytics, and AI to extract meaningful insights, solve real-world problems, and enable data-driven decision-making.
 
 - 🎓 MSc Data Science (Distinction) from the University of East Anglia.
 - 🏢 Nearly 8 years of experience across analytics, technology, and software delivery roles.
