@@ -6,17 +6,16 @@
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">
-Welcome to my GitHub profile! I'm a Senior Statistician specialising in data analytics, statistical modelling and machine learning. I'm passionate about leveraging data to extract insights, solve problems, and make data-driven decisions.</h3>
+Welcome to my GitHub profile! I'm a Senior Statistician specialising in data analytics, statistical modelling and machine learning. I'm passionate about leveraging statistics, analytics, and AI to extract meaningful insights, solve real-world problems, and enable data-driven decision-making.</h3>
 <h4 align="center">
-Senior Statistician | Data Analytics | Machine Learning | AI
+Senior Statistician | Data Science | Analytics | Machine Learning | Generative AI
 </h4>
 ## 🚀 About Me
-I am a Senior Statistician with experience delivering data-driven insights using large-scale administrative and survey datasets. I specialise in statistical analysis, data analytics, and transforming complex data into actionable insights.
+I am a Senior Statistician in the UK Civil Service with experience delivering evidence-based insights using large-scale administrative and survey datasets. I specialise in statistical analysis, data analytics, and transforming complex data into actionable insights for decision-making.
 
 - 🎓 MSc Data Science (Distinction) from the University of East Anglia.
 - 🏢 Nearly 8 years of experience across analytics, technology, and software delivery roles.
 - 📊 Experienced in Python, SQL, SAS, Power BI, and statistical modelling.
-- 🇬🇧 Currently working as a Senior Statistician in the UK civil service.
 - 🤖 Exploring machine learning, generative AI, LLM applications, and cloud analytics.
 <!---
 
